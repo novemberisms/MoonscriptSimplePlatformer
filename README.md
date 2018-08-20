@@ -1,4 +1,6 @@
 # A Simple Platformer Framework in Moonscript
+
+## Uses LOVE2D
 Contains the bare minimum for a platformer:
 *	Entity management
 *	Collisions
